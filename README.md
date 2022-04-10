@@ -1,5 +1,5 @@
 # p2py
-"Pseudo" (min) Processing API module, based on tkinter, for Python.
+"Pseudo" (min) Processing API module, based on tkinter, for Python.  
 This module is being developping for teaching python for others.
 
 # How to install
