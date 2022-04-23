@@ -1,4 +1,4 @@
-# p2py
+# m3py
 "Pseudo" (min) Processing API module, based on tkinter, for Python.  
 This module is being developping for teaching python for others.
 
