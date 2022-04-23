@@ -8,19 +8,19 @@ pip install m3py (under construction)
 
 # How to use
 ```python:sample
-import p2py as p2
-p2.rect(10, 10, 100, 100)
+import m3py as m3
+m3.rect(10, 10, 100, 100)
 run()
 ```
 
 ```
-from p2py import *
+from m3py import *
 rect(10, 10, 100, 100)
 run()
 ```
 
 ```
-from p2py import *
+from m3py import *
 def mouseClicked(x, y):
     line(100, 100, x, y)
 run()
