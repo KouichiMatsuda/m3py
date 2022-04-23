@@ -1,10 +1,10 @@
 # m3py
-"Pseudo" (min) Processing API module, based on tkinter, for Python.  
+Minimal "Pseudo" Processing API module, based on tkinter, for Python.  
 This module is being developping for teaching python for others.
 
 # How to install
 
-pip install p2py
+pip install m3py (under construction)
 
 # How to use
 ```python:sample
